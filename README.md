@@ -20,5 +20,5 @@ People need to eat, and coincidentally, are short on time. Here comes our idea f
 - Customer will only talk to one front staff per order
 
 ## Entity-Relationship Diagram
-![Example Image](https://github.com/iAmBrig/Fast_Foodies/raw/main/ER Diagram.png)
+![Example Image](https://github.com/iAmBrig/Fast_Foodies/raw/main/ER_Diagram.png)
 
